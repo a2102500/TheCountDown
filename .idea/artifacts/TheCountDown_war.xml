@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TheCountDown:war">
+    <output-path>$PROJECT_DIR$/../TheCountDown/target</output-path>
+    <root id="archive" name="TheCountDown.war">
+      <element id="artifact" artifact-name="TheCountDown:war exploded" />
+    </root>
+  </artifact>
+</component>
